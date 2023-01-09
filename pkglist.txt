@@ -63,3 +63,5 @@ wget
 which
 wine-staging
 winetricks
+gnome
+sddm
